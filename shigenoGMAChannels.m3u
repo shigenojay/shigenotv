@@ -30,4 +30,4 @@ https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd
 https://nokotan.anhkz.fr/channel/2353eb89/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="SHIGENOTV CHANNELS", GTV
-http://51.38.186.126:1234/stream/test/gtv/master.m3u8?u=test&p=b6abd85d2a5ecd895c7c74bb164b0e2675474b6c7e72f741b47a7ca19e416db4
+http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com

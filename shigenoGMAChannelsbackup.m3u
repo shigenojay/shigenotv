@@ -20,7 +20,7 @@ https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
-https://restreamer.ganbaruby23.xyz/memfs/32adc8a4-fd5f-4b81-9038-770ca89a0e09_output_0.m3u8 
+https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/d/d2/GMA_7_Logo_2011.png" channel-number="2"  group-title="SHIGENOTV CHANNELS", GMA7 
 #KODIPROP:inputstreamaddon=inputstream.adaptive

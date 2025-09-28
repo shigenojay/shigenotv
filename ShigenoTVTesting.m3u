@@ -27,7 +27,7 @@ https://kaotv.ganbaruby23.xyz/dash/heartofasia/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/640px-GTV_Philippines_Logo_Vector.svg.png" group-title="SHIGENOTV CHANNELS", GTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZzYqTfR/GTV.png" group-title="SHIGENOTV CHANNELS", GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com

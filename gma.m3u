@@ -7,7 +7,7 @@ https://vod.nathcreqtives.com/1093/manifest.mpd
 
 #EXTINF:-1 tvg-id="KAPAMILYA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local",Kapamilya
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00000000000000000005c30ffbdf71ce:38694e34324d543478316b7455753437
+#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
 https://mc-nfwz0ez9k2.bunny.run/gtv/dopamine/manifest.mpd
 
 #EXTINF:-1 tvg-id="Tap Action" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" channel-number="25" group-title="Local", Tap Action Flix

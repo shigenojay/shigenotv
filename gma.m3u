@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="GMA7" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/d/d2/GMA_7_Logo_2011.png" group-title="Local",GMA7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-https://vod.nathcreqtives.com/1093/manifest.mpd
+http://vod.nathcreqtives.com/1093/manifest.mpd
 
 #EXTINF:-1 tvg-id="Kapamilya" tvg-logo="https://i.ibb.co/BHQT1xCv/Kapamilya.png" group-title="Local",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -9,7 +9,7 @@ M3U billed-msg="M3U PLAYLIST BY: SHIGENOTV"
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="ShigenoTV", I Heart Movies
-http://hls.nathcreqtives.com/playlist.m3u8?id=2 
+http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJzaGlnZW5vIiwiZXhwIjoxNzY1ODY5MjgyfQ.Rz 
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="ShigenoTV CHANNELS",GMA 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -62,4 +62,4 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/in
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="ShigenoTV", Heart of Asia
-http://hls.nathcreqtives.com/playlist.m3u8?id=1
+http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJzaGlnZW5vIiwiZXhwI

@@ -21,7 +21,7 @@ https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://gsattv.akamaized.net/live/media0/gtv/Widevine/gtv.mpd
+https://bisdaktv.fun/stream/nayswan.php?name=gma%20news%20tv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="ShigenoTV CHANNELS",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

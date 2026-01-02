@@ -15,13 +15,13 @@ http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJzaGlnZW5vIiwiZXhwIjoxNzY1ODY5MjgyfQ.RzoAGusmS_7T3cBax9j6WAqTOR1nCYDt_dMKrsKhAkM
+https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
 
 #EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="ShigenoTV",GTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJzaGlnZW5vIiwiZXhwIjoxNzY1ODY5MjgyfQ.RzoAGusmS_7T3cBax9j6WAqTOR1nCYDt_dMKrsKhAkM
+https://gsattv.akamaized.net/live/media0/gtv/Widevine/gtv.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="ShigenoTV CHANNELS",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

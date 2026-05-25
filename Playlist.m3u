@@ -1,0 +1,881 @@
+#EXTM3U
+#EXTINF:1 tvg-id="" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="iptv" group-title="NBA LEAGUE PASS",LIVE 1 (SERVER1)
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=11f6b9854db8b18e8ad5b4c5a99c1bb14163dbf8d0606dd74390da02625d0e6f
+#EXTINF:1 tvg-id="" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="iptv" group-title="NBA LEAGUE PASS",LIVE 1 (SERVER2)
+https://nbalp2.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=11f6b9854db8b18e8ad5b4c5a99c1bb14163dbf8d0606dd74390da02625d0e6f
+#EXTINF:2 tvg-id="" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="iptv" group-title="NBA LEAGUE PASS",LIVE 2 (SERVER1)
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=11f6b9854db8b18e8ad5b4c5a99c1bb14163dbf8d0606dd74390da02625d0e6f
+#EXTINF:2 tvg-id="" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="iptv" group-title="NBA LEAGUE PASS",LIVE 2 (SERVER2)
+https://nbalp2.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=11f6b9854db8b18e8ad5b4c5a99c1bb14163dbf8d0606dd74390da02625d0e6f
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="PH | CONVERGE",A2Z
+http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kVVax44.png" group-title="PH | CONVERGE",ABC Australia
+http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpS6W%2B6YCeAzzWlWVs9TWyRytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001273&contentid=ch00000000000000001273&videoid=ch00000090990000001111&recommendtype=0&userid=1836152308422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OIM96MPU9AXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png" group-title="PH | CONVERGE",Al Jazeera
+http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpIEgcDfK9VMvZFzWy7ZaCtytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1546142827579&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2USMKY0PXD5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ABCLogo.png/revision/latest?cb=20161012105022" group-title="PH | CONVERGE",Aliw Channel
+http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="PH | CONVERGE",ALL TV
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="PH | CONVERGE",ANC
+http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" group-title="PH | CONVERGE",Arirang
+http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="PH | CONVERGE",Bilyonaryo Channel
+http://136.239.158.18:6610/001/2/ch00000090990000001124/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001278&contentid=ch00000000000000001278&videoid=ch00000090990000001124&recommendtype=0&userid=1747224050385&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I3AR71L33CXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BS_Fuji_2008_alt.svg/revision/latest/scale-to-width-down/250?cb=20240719135358" group-title="PH | CONVERGE",BS Fuji
+http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 group-title="PH | CONVERGE",BS Nittele
+http://136.158.97.2:6610/001/2/ch00000090990000001213/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqVCNWul70O3g%2BsOvpld6kgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001422&contentid=ch00000000000000001422&videoid=ch00000090990000001213&recommendtype=0&userid=1829774634107&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HQFPYZNKI2XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 group-title="PH | CONVERGE",BS10
+http://136.239.173.26:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5DOWlb1sl%2Btaq5YYAtO9QytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001421&contentid=ch00000000000000001421&videoid=ch00000090990000001202&recommendtype=0&userid=1162923937911&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DZNL8HTZEICXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="PH | CONVERGE",Cartoon Network
+http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/x1wehbs.png" tvg-name="Cartoonito Asia" group-title="PH | CONVERGE",Cartoonito
+http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HBisPOA.png" group-title="PH | CONVERGE",CCTV4
+http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrXm%2BLs%2BN7C0jX0KTEhSJl3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1235993277645&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=36FNJHET6H5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4JCkzjl.png" group-title="PH | CONVERGE",Celestial Classic Movies
+http://136.239.158.18:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8jImOa2AKrqwa1m%2FJfhceytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1537952098663&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WEF0S27HC1HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="PH | CONVERGE",Celestial Movies Pinoy
+http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="cgtnenglish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459" group-title="PH | CONVERGE",CGTN
+http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="PH | CONVERGE",Channel News Asia
+http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="PH | CONVERGE",Cinema One
+http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="PH | CONVERGE",Cinemax
+http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="PH | CONVERGE",Cinemo!
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759" group-title="PH | CONVERGE",CLTV 36
+http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1863730940752&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=689D0763BF7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="PH | CONVERGE",CNN International
+http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_.png" group-title="PH | CONVERGE",DW News
+http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoTcUYwq3PMi%2FTObKiSY6bDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001377&contentid=ch00000000000000001377&videoid=ch00000090990000001166&recommendtype=0&userid=1209889128637&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=GFCSNPUV69DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npj41pk.png" group-title="PH | CONVERGE",DZMM Teleradyo
+http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="PH | CONVERGE",DZRH TV
+http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/EDGE_SPORT.png" group-title="PH | CONVERGE",Edge Sports
+http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8NjV5sqkKOgSpV7-Nj5Dd0KHMVhrtW6ukg&s" group-title="PH | CONVERGE",EWTN
+http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="PH | CONVERGE",Fashion TV
+http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 group-title="PH | CONVERGE",Filam TV
+http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="PH | CONVERGE",France24
+http://136.239.158.18:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br79DvzaC5n7CqXniN8aprYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001337&contentid=ch00000000000000001337&videoid=ch00000090990000001157&recommendtype=0&userid=1349970790575&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HLVGZN99ZDDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH | CONVERGE",GMA 7
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m6EFnqh.png" group-title="PH | CONVERGE",GNN
+http://136.158.97.2:6610/001/2/ch00000090990000001234/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp6sHVPy02nySMqUY2vMm%2BjytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001523&contentid=ch00000000000000001523&videoid=ch00000090990000001234&recommendtype=0&userid=1521078532205&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EP8Z20BUC89XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="PH | CONVERGE",GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://magmediaintl.com/images/logochannels/Hallypop%20Logo.png" group-title="PH | CONVERGE",Hallypop
+http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="PH | CONVERGE",HBO
+http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="PH | CONVERGE",IBC 13
+http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6JmGBq.png" group-title="PH | CONVERGE",INC TV
+http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="PH | CONVERGE",Jeepney TV
+http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="PH | CONVERGE",Kapamilya Channel HD
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="PH | CONVERGE",KBS World
+**********World-TV**********
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="PH | CONVERGE",KIX
+http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="PH | CONVERGE",Knowledge Channel
+http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkvWEPQltk-Xq-ixCjPdOGxoqgIlMsc095A&s" group-title="PH | CONVERGE",Light TV
+http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1847927235474&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FR3HWWBCXEEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wsj7iPd.png" group-title="PH | CONVERGE",Living Asia Channel
+http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="PH | CONVERGE",Lotus Macao
+http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321" group-title="PH | CONVERGE",Metro Channel
+http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqndReZ8wqIcJO39ZUlQnjeayPJ-11_bVnow&s" group-title="PH | CONVERGE",Mindanow Network
+http://136.239.173.26:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001237&contentid=ch00000000000000001237&videoid=ch00000090990000001123&recommendtype=0&userid=1545743380024&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7NAS0TOF95HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="PH | CONVERGE",MYX Philippines
+http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="PH | CONVERGE",NET 25
+http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpBCCDeDIJn9rDuWx8BszuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1645621004526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5X13LGN2GQBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NHK_BS_Premium_2011.svg/revision/latest?cb=20240718143008" group-title="PH | CONVERGE",NHK BS
+http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="nhk_japan" tvg-logo="https://i.imgur.com/3zp7a0B.png" group-title="PH | CONVERGE",NHK World Japan
+http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1553915080287&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G0CGMZFORK5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="617.astro" tvg-logo="https://i.imgur.com/4MozyqM.png" group-title="PH | CONVERGE",Nick Jr
+http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="PH | CONVERGE",One Sports
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://jioswm.org/assets/ministries/onh-730979c3f694e6ba49c8fc43562e04e72f002697bf08e5c8854f3b71aac56676.png" group-title="PH | CONVERGE",Oras Ng Himala
+http://136.158.97.2:6610/001/2/ch00000090990000001175/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpQqyrYGvsQGfBZz9lkpM7HytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001394&contentid=ch00000000000000001394&videoid=ch00000090990000001175&recommendtype=0&userid=1010875891030&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1G13UFJCY45XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="PH | CONVERGE",PBO
+http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/37/2/phoenix-infonews-channel-logo-png_seeklogo-370521.png" group-title="PH | CONVERGE",Phoenix Info News
+http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001274&contentid=ch00000000000000001274&videoid=ch00000090990000001113&recommendtype=0&userid=1615200557296&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=F3CWPRYA79AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/4/44/Premier_Football_Logo_November_2020.png/revision/latest/scale-to-width-down/250?cb=20220402065521" group-title="PH | CONVERGE",Premier Football
+http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001293&contentid=ch00000000000000001293&videoid=ch00000090990000001127&recommendtype=0&userid=1446387897422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OY4RBOUL5WXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/70HMV2A.png" group-title="PH | CONVERGE",Premier Sports
+http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest/scale-to-width-down/250?cb=20220528091432" group-title="PH | CONVERGE",Premier Sports 2
+http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="PH | CONVERGE",PTV4
+http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Un5_BaTlKCiwEIH0RM1Kf2uuEWs7tC7rRQ&s" group-title="PH | CONVERGE",Radio Maria
+http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoMJQgjeNgI0lKcIWq2Qc67ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001815&contentid=ch00000000000000001815&videoid=ch00000090990000001327&recommendtype=0&userid=1715152829702&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4UH5RFC56HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" group-title="PH | CONVERGE",RJTV 29
+http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1981697457601&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VPNC8TXZ55DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Rock_Manila_Logo_2023.png/revision/latest?cb=20240316065316" group-title="PH | CONVERGE",Rock TV of Manila
+http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq3IoTFSryS9b7zI0P4QXhKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001414&contentid=ch00000000000000001414&videoid=ch00000090990000001177&recommendtype=0&userid=1440892826941&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AGE6A6KKG8LXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="PH | CONVERGE",RPTV
+http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1177699247918&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YBHPP0KWBIFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ItYMF-jQgNwrYf1yGCTFpDuFz0T-t9Ba9A&s" group-title="PH | CONVERGE",Saudi TV
+http://161.49.17.2:6610/001/2/ch00000090990000001176/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqx%2BXO6kYP1duDF0CR%2BT7zbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001413&contentid=ch00000000000000001413&videoid=ch00000090990000001176&recommendtype=0&userid=1635054451771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=17AVARI79W0IXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WL2ugeZ.png" group-title="PH | CONVERGE",SMNI Channel
+http://136.239.173.10:6610/001/2/ch00000090990000001155/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001335&contentid=ch00000000000000001335&videoid=ch00000090990000001155&recommendtype=0&userid=1436446282400&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZCER3GW1NZPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="PH | CONVERGE",Solarflix
+http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="PH | CONVERGE",SolarSports
+http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="Spot" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/32/Spotlight.png" group-title="PH | CONVERGE",Spotlight TV
+http://136.239.158.30:6610/001/2/ch00000090990000001134/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5iGQ4tDytzSdpM9ehJW6pytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001281&contentid=ch00000000000000001281&videoid=ch00000090990000001134&recommendtype=0&userid=1790262524603&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MG695A5LWR8XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" group-title="PH | CONVERGE",Tap Action Flix
+http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="PH | CONVERGE",Tap Edge
+http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="PH | CONVERGE",Tap Movies
+http://136.239.159.20:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrqmX9tLke4aZIpUgreyOpNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1621837627360&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DE8LQ2K74YXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="PH | CONVERGE",Tap Sports
+http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="PH | CONVERGE",Tap TV
+http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://avpn.asia/wp-content/uploads/2018/07/TBN-Asia-Logo.jpg" group-title="PH | CONVERGE",TBN Asia
+http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001317&contentid=ch00000000000000001317&videoid=ch00000090990000001147&recommendtype=0&userid=1315480960661&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IK7JAFC7DFXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi" group-title="PH | CONVERGE",THRILL
+http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="PH | CONVERGE",TMC
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://tvmaria.ph/wp-content/uploads/2021/11/49664812_1960528887328520_738333465484722176_n.png" group-title="PH | CONVERGE",TV Maria
+http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="PH | CONVERGE",TV5
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://klean.nl/wp-content/uploads/Logo_TV5_Monde_-_2021.svg_.png" group-title="PH | CONVERGE",TV5 Monde
+http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrZbWy4P3NKKVNXe3wACXZmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001336&contentid=ch00000000000000001336&videoid=ch00000090990000001156&recommendtype=0&userid=1384915951397&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QZOPZ9VOOVLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/TVE_Internacional_old.png/revision/latest?cb=20220507144624" group-title="PH | CONVERGE",TVE Internacional
+http://136.158.97.2:6610/001/2/ch00000090990000001112/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0ljLQuLaqTKdgvofK6hc4ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001275&contentid=ch00000000000000001275&videoid=ch00000090990000001112&recommendtype=0&userid=1405270067404&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O5OYCFP87ZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/c/c3/UNTV_Public_Service_Logo_2022.png/revision/latest?cb=20221014202457" group-title="PH | CONVERGE",UNTV
+http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8EKxpteUJNLDuI18c3YYNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001177&contentid=ch00000000000000001177&videoid=ch00000090990000001091&recommendtype=0&userid=1785051491883&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7BZSNFMO8LPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/usa_today-logo_brandlogos.net_9jygb.png" group-title="PH | CONVERGE",USA Today
+http://136.239.159.20:6610/001/2/ch00000090990000001199/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoYf5t%2B2bebnbia7IXJABLsytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001434&contentid=ch00000000000000001434&videoid=ch00000090990000001199&recommendtype=0&userid=1672704114701&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IZGB59APCIXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="PH | CONVERGE",Viva Cinema
+http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="PH | CONVERGE",Warner TV
+http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHzEmFZaNE5sKGd0-VsgK4zyJms0kvnA_ZIQ&s" group-title="PH | CONVERGE",Xingkong
+http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",A2Z
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119440.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Abante Radyo
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",ABS CBN
+http://ua-tv.xyz:80/live/Pete/stopoulos/831165.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Al Jazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",ALL TV
+https://converse.nathcreqtives.com/channels/all-tv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3NzkwNzQyNTksImV4cCI6MTc3OTkzODI1OSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzc5OTM4MjU5LCJhbGxvd2VkT3JpZ2lucyI6WyJodHRwczovL3d3dy5tci15dXNvLXR2LnNpdGUiLCJodHRwczovL21hZy1pbmdhdC1zYS1iZW50YWJveXMucGFnZXMuZGV2IiwiaHR0cHM6Ly9waW5veS10YW1iYXlhbi1tb3ZpZXMucGFnZXMuZGV2Il19.ILB2LUZbYWZRAbE9qankPcAVNuCGtL-KsIKk5xwfpOY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",America's got talent
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",American idol
+https://d2yn8dyffvmgy.cloudfront.net/AmericanIdol_GB.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",ANC
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119443.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Animal Planet
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119444.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",ANIMAX
+https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Asian Crush
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Asian Food Network
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:bf:e9:f8&stream=534440&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",BBC Earth
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119448.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",BBC World News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",BILLIARD TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Bilyonaryo Channel
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Celestial Movies Pinoy
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119518.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CINEMA 1
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119454.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Cinemax
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119456.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CINEMO
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119457.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CJ ENM
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CNN International
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119461.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Discovery HD
+http://103.157.248.140:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Discovery Science
+http://103.157.248.140:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",DreamWorks HD
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119467.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",DreamWorks PH
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119466.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Dubai One HD
+http://edinpajalic.streamtv.to:8080/live/sasodaniel2/GTG53de3f3erFR/2398.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",DZRH NEWS
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7b:ab:a5&stream=1548699&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Fashion TV
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119469.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Food Network
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119470.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Global Trekker
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:bf:e9:f8&stream=1919443&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GMA 7
+https://converse.nathcreqtives.com/channels/gma-7/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3NzkwNzQyNTksImV4cCI6MTc3OTkzODI1OSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzc5OTM4MjU5LCJhbGxvd2VkT3JpZ2lucyI6WyJodHRwczovL3d3dy5tci15dXNvLXR2LnNpdGUiLCJodHRwczovL21hZy1pbmdhdC1zYS1iZW50YWJveXMucGFnZXMuZGV2IiwiaHR0cHM6Ly9waW5veS10YW1iYXlhbi1tb3ZpZXMucGFnZXMuZGV2Il19.ILB2LUZbYWZRAbE9qankPcAVNuCGtL-KsIKk5xwfpOY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GMA Life TV
+https://s.rocketdns.info:443/live/ppsUfx6uE/mTn8ieF/546783.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GMA News TV
+https://s.rocketdns.info:443/live/ppsUfx6uE/mTn8ieF/4523.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GMA Pinoy TV
+https://s.rocketdns.info:443/live/ppsUfx6uE/mTn8ieF/546784.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GTV
+https://converse.nathcreqtives.com/channels/gtv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3NzkwNzQyNTksImV4cCI6MTc3OTkzODI1OSwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzc5OTM4MjU5LCJhbGxvd2VkT3JpZ2lucyI6WyJodHRwczovL3d3dy5tci15dXNvLXR2LnNpdGUiLCJodHRwczovL21hZy1pbmdhdC1zYS1iZW50YWJveXMucGFnZXMuZGV2IiwiaHR0cHM6Ly9waW5veS10YW1iYXlhbi1tb3ZpZXMucGFnZXMuZGV2Il19.ILB2LUZbYWZRAbE9qankPcAVNuCGtL-KsIKk5xwfpOY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HBO
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119476.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HBO Family
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119477.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HBO Hits
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119478.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HBO Signature
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119479.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",History
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119480.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Hits HD
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119481.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HITS MOVIES
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119482.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Hits Now
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119483.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",IBC13
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",INC TV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:56:5A&stream=440577&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Investigation Discovery
+http://103.157.248.140:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",JEEPNEY TV
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119455.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Kapamilya Channel
+https://converse.nathcreqtives.com/channels/kapamilya-channel-hd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTQyMTY3NywiZXhwIjoxNzg0NjA1NTAwLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ2MDU1MDAsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.00FQBZ6uvUFsGXz6xk7KitLhLRD6qNs9BqYjT7qf_9Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Kapatid Channel
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7B:BB:36&stream=440509&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",KBS World
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",KIX HD
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119486.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Knowledge Channel
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119487.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Living Asia channel
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Master Chef
+https://tglmp03.akamaized.net/out/v1/5623928a97774b698b3404a843a827d6/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Mindanao Network
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",MN+
+http://desyra.co:80/8964476/3pUJreUXUW/9383
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",MNX
+http://desyra.co:80/live/8964476/3pUJreUXUW/191.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",MOVIES NOW
+http://desyra.co:80/8964476/3pUJreUXUW/152387
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Mr BEAN
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Mr Bean live action
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",MYX
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119495.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nat Geo
+http://103.157.248.140:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nat Geo Wild
+http://103.157.248.140:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NBA TV Philippines
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119541.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NET 25
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7b:ab:a5&stream=440544&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NEW KPOP
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NHK WORLD
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nick Jr
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119498.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nickelodeon
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119499.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NOYPI Movies
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:56:5A&stream=440670&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nudge Sports Channel
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",One Championship TV
+https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",One pH
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119500.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",One Sports HD
+https://s.rocketdns.info:443/live/TreverCapito/TC12212022/546796.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",One Sports+
+https://s.rocketdns.info:443/live/fNI2zyyx3q/MBbPOBp430/651753.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",PBA Rush
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119506.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",PTV
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Rakuten VIKI
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Redbull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Rock Action
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",ROCK ENTERTAINMENT
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",RPTV
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119512.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Sari Sari
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119514.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",SMNI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:56:5A&stream=440514&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Solar Sports
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548686&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Sony Pix
+http://desyra.co:80/live/8964476/3pUJreUXUW/147.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",SPOTV
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",SPOTV 2
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Star Movies
+http://desyra.co:80/live/8964476/3pUJreUXUW/979.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Star Movies Select
+http://desyra.co:80/8964476/3pUJreUXUW/218
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TAP MOVIES
+http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119519.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Tapsilog
+rtmp://210.4.112.99:1935/tapdmv/TVN_movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TELERADYO SERBISYO
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119522.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Tennis Channel 2
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TFC Asia
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119524.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Thrill HD
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TMC
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119517.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Trace Sports Star
+https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Travel Channel
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119530.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TV5
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119532.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TVN Movies Pinoy
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119534.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TVN Premium
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:bf:e9:f8&stream=2033860&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",UAAP Varsity Channel
+https://s.rocketdns.info:443/live/fNI2zyyx3q/MBbPOBp430/651752.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Viva Cinema
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119539.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Warner Channel
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119540.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Wicked Tuna
+https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",World of Free Sports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",World Poker Tour
+https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",WPT Asia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-wpt-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",3RS CartoonMovies
+https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",3RS Moviebox
+https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",3RS Sinepinoy
+https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",3RSTV
+https://3rstv.elektriko4444.workers.dev/peanut.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://audi2.com:2053/images/CLMMkJth8WNZc9MUQcOuglzWF1I7fJQWraTZJNkgn_jV4Xl0vgRez8hoz3vlcpFSbB6NJMOaC7MWVGQoslwoyOYHjAutokxis-N_0habyOk.png" group-title="USA | ENTERTAINMENT",Court TV
+http://inthezone.pro:80/Sofia/Sofia/655278
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-logo="https://247hosting.xyz/images/Icons/american.heroes.channel.us.png" group-title="USA | ENTERTAINMENT",US: American Heroes HD
+http://inthezone.pro:80/Sofia/Sofia/634225
+#EXTINF:-1 tvg-id="ABCEast_WABC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: ABC EAST HD
+http://inthezone.pro:80/Sofia/Sofia/634213
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: AMC HD
+http://inthezone.pro:80/Sofia/Sofia/634212
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/aspire-tv-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: ASPiRE TV
+http://inthezone.pro:80/Sofia/Sofia/634208
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: BBC America HD
+http://inthezone.pro:80/Sofia/Sofia/634207
+#EXTINF:-1 tvg-id="BET.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: BET HD
+http://inthezone.pro:80/Sofia/Sofia/634204
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Bounce TV
+http://inthezone.pro:80/Sofia/Sofia/634203
+#EXTINF:-1 tvg-id="Bravo.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Bravo HD
+http://inthezone.pro:80/Sofia/Sofia/634201
+#EXTINF:-1 tvg-id="CMT.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: CMT
+http://inthezone.pro:80/Sofia/Sofia/634198
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Comedy Central
+http://inthezone.pro:80/Sofia/Sofia/634197
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: COMET TV
+http://inthezone.pro:80/Sofia/Sofia/634194
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: COZI TV
+http://inthezone.pro:80/Sofia/Sofia/634193
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Discovery Channel HD
+http://inthezone.pro:80/Sofia/Sofia/634192
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: E! HD (EAST)
+http://inthezone.pro:80/Sofia/Sofia/634191
+#EXTINF:-1 tvg-id="Fox5PlusWDCA.us" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_1_us.png" group-title="USA | ENTERTAINMENT",US: Fox 5 HD
+http://inthezone.pro:80/Sofia/Sofia/634190
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Freeform HD (EAST)
+http://inthezone.pro:80/Sofia/Sofia/633538
+#EXTINF:-1 tvg-id="Fuse.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Fuse HD
+http://inthezone.pro:80/Sofia/Sofia/634188
+#EXTINF:-1 tvg-id="FX.us" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="USA | ENTERTAINMENT",US: FX West HD (EAST)
+http://inthezone.pro:80/Sofia/Sofia/634187
+#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/fxx-hd-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: FXX HD
+http://inthezone.pro:80/Sofia/Sofia/634184
+#EXTINF:-1 tvg-id="getTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Get TV
+http://inthezone.pro:80/Sofia/Sofia/634132
+#EXTINF:-1 tvg-id="Grit.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: GRIT
+http://inthezone.pro:80/Sofia/Sofia/634131
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: GSN HD
+http://inthezone.pro:80/Sofia/Sofia/634130
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Hallmark Channel
+http://inthezone.pro:80/Sofia/Sofia/634129
+#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Hallmark Family
+http://inthezone.pro:80/Sofia/Sofia/634121
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/2/2b/Multiverse_-_Hallmark_Movies_%26_Mysteries_-1.png/revision/latest?cb=20180902194346" group-title="USA | ENTERTAINMENT",US: Hallmark Movies & Mysteries
+http://inthezone.pro:80/Sofia/Sofia/634120
+#EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hogar-de-hgtv-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: HGTV HD
+http://inthezone.pro:80/Sofia/Sofia/633537
+#EXTINF:-1 tvg-id="IFC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: IFC
+http://inthezone.pro:80/Sofia/Sofia/634119
+#EXTINF:-1 tvg-id="IonTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: ION
+http://inthezone.pro:80/Sofia/Sofia/633849
+#EXTINF:-1 tvg-id="JusticeCentral.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/justice-central-tv-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Justice Central HD
+http://inthezone.pro:80/Sofia/Sofia/633848
+#EXTINF:-1 tvg-id="MTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: MTV HD
+http://inthezone.pro:80/Sofia/Sofia/633847
+#EXTINF:-1 tvg-id="MTV2Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: MTV2 HD (West)
+http://inthezone.pro:80/Sofia/Sofia/633846
+#EXTINF:-1 tvg-id="OvationTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Ovation TV HD
+http://inthezone.pro:80/Sofia/Sofia/633845
+#EXTINF:-1 tvg-id="OxygenPacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Oxygen HD (West)
+http://inthezone.pro:80/Sofia/Sofia/633844
+#EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Paramount Network HD (West)
+http://inthezone.pro:80/Sofia/Sofia/633843
+#EXTINF:-1 tvg-id="POP.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: POP HD
+http://inthezone.pro:80/Sofia/Sofia/633842
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: Reelz HD
+http://inthezone.pro:80/Sofia/Sofia/633841
+#EXTINF:-1 tvg-id="RFDTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/rfd-tv-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: RFD-TV
+http://inthezone.pro:80/Sofia/Sofia/633840
+#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/syfy-hd-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: SYFY HD (EAST)
+http://inthezone.pro:80/Sofia/Sofia/633832
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: TNT HD
+http://inthezone.pro:80/Sofia/Sofia/633824
+#EXTINF:-1 tvg-id="truTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: TRU TV HD
+http://inthezone.pro:80/Sofia/Sofia/633823
+#EXTINF:-1 tvg-id="TVLand.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: TV Land HD
+http://inthezone.pro:80/Sofia/Sofia/633822
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://scfcrulez.com:443/images/FGXVDD4L0INeHotCL6e9zTM-IvZeLuWatjKGaIZv0auu7beJsnUoM5UXpKru0gY473fM-C6I7BFvYpk12wfvet9B0i98P8fxJMsVj45m4QM.png" group-title="USA | ENTERTAINMENT",US: USA NETWORK HD (EAST)
+http://inthezone.pro:80/Sofia/Sofia/633536
+#EXTINF:-1 tvg-id="VH1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="USA | ENTERTAINMENT",US: VH1 HD
+http://inthezone.pro:80/Sofia/Sofia/633539
+#EXTINF:-1 tvg-id="Max.ca" tvg-logo="https://247hosting.xyz/images/Icons/hbo.max.us.png" group-title="USA | ENTERTAINMENT",HBO Max
+http://inthezone.pro:80/Sofia/Sofia/1422522
+#EXTINF:-1 tvg-id="CinemaxAction.us" tvg-logo="https://247hosting.xyz/images/Icons/cinemax.action.us.png" group-title="USA | MOVIES",US: Cinemax Action
+http://inthezone.pro:80/Sofia/Sofia/634370
+#EXTINF:-1 tvg-id="CinemaxClassics.us" tvg-logo="https://247hosting.xyz/images/Icons/cinemax.classics.us.png" group-title="USA | MOVIES",US: Cinemax Classics
+http://inthezone.pro:80/Sofia/Sofia/634369
+#EXTINF:-1 tvg-id="CinemaxHits.us" tvg-logo="https://247hosting.xyz/images/Icons/cinemax.hits.us.png" group-title="USA | MOVIES",US: CINEMAX HITS
+http://inthezone.pro:80/Sofia/Sofia/634374
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="USA | MOVIES",US: CINEMAX HD (East)
+http://inthezone.pro:80/Sofia/Sofia/634372
+#EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="USA | MOVIES",US: CINEMAX HD (West)
+http://inthezone.pro:80/Sofia/Sofia/634373
+#EXTINF:-1 tvg-id="FXMovies.us" tvg-logo="https://247hosting.xyz/images/Icons/fxm.movie.channel.us.png" group-title="USA | MOVIES",US: FX Movie Channel
+http://inthezone.pro:80/Sofia/Sofia/634380
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://247hosting.xyz/images/Icons/hbo.us.png" group-title="USA | MOVIES",US: HBO
+http://inthezone.pro:80/Sofia/Sofia/634381
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="https://247hosting.xyz/images/Icons/hbo.comedy.us.png" group-title="USA | MOVIES",US: HBO Comedy
+http://inthezone.pro:80/Sofia/Sofia/634382
+#EXTINF:-1 tvg-id="HBODrama.us" tvg-logo="https://247hosting.xyz/images/Icons/hbo.drama.us.png" group-title="USA | MOVIES",US: HBO Drama
+http://inthezone.pro:80/Sofia/Sofia/634384
+#EXTINF:-1 tvg-id="HBOMovies.us" tvg-logo="https://247hosting.xyz/images/Icons/hbo.movies.us.png" group-title="USA | MOVIES",US: HBO Movies
+http://inthezone.pro:80/Sofia/Sofia/634387
+#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-logo="https://247hosting.xyz/images/Icons/hdnet.movies.us.png" group-title="USA | MOVIES",US: HDNET MOVIES
+http://inthezone.pro:80/Sofia/Sofia/634388
+#EXTINF:-1 tvg-id="MGM+Pacific.us" tvg-logo="https://247hosting.xyz/images/Icons/mgm.plus.png" group-title="USA | MOVIES",US: MGM+
+http://inthezone.pro:80/Sofia/Sofia/634389
+#EXTINF:-1 tvg-id="MGM+Hits.us" tvg-logo="https://247hosting.xyz/images/Icons/mgm.plus.hits.us.png" group-title="USA | MOVIES",US: MGM+ HITS
+http://inthezone.pro:80/Sofia/Sofia/634391
+#EXTINF:-1 tvg-id="MGM+Marquee.us" tvg-logo="https://247hosting.xyz/images/Icons/mgm.plus.marquee.us.png" group-title="USA | MOVIES",US: MGM+ MARQUEE
+http://inthezone.pro:80/Sofia/Sofia/634392
+#EXTINF:-1 tvg-id="PixL.us" tvg-logo="https://247hosting.xyz/images/Icons/pixl.us.png" group-title="USA | MOVIES",US: PIXL
+http://inthezone.pro:80/Sofia/Sofia/1416002
+#EXTINF:-1 tvg-id="RetroPlex.us" tvg-logo="https://247hosting.xyz/images/Icons/plex.retro.plex.us.png" group-title="USA | MOVIES",US: RETROPLEX HD
+http://inthezone.pro:80/Sofia/Sofia/634393
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-logo="https://247hosting.xyz/images/Icons/show.time.2.us.png" group-title="USA | MOVIES",US: SHOWTIME 2
+http://inthezone.pro:80/Sofia/Sofia/634397
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-logo="https://247hosting.xyz/images/Icons/showtime.extreme.us.png" group-title="USA | MOVIES",US: SHOWTIME EXTREME
+http://inthezone.pro:80/Sofia/Sofia/634398
+#EXTINF:-1 tvg-id="ShowtimeFamilyzonePacific.us" tvg-logo="https://247hosting.xyz/images/Icons/showtime.family.zone.us.png" group-title="USA | MOVIES",US: SHOWTIME FAMILY ZONE
+http://inthezone.pro:80/Sofia/Sofia/634399
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-logo="https://247hosting.xyz/images/Icons/showtime.us.png" group-title="USA | MOVIES",US: Showtime (EAST)
+http://inthezone.pro:80/Sofia/Sofia/634395
+#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-logo="https://247hosting.xyz/images/Icons/showtime.us.png" group-title="USA | MOVIES",US: SHOWTIME (WEST)
+http://inthezone.pro:80/Sofia/Sofia/634396
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-logo="https://247hosting.xyz/images/Icons/showtime.next.us.png" group-title="USA | MOVIES",US: Showtime Next
+http://inthezone.pro:80/Sofia/Sofia/634400
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-logo="https://247hosting.xyz/images/Icons/showtime.women.us.png" group-title="USA | MOVIES",US: SHOWTIME WOMEN
+http://inthezone.pro:80/Sofia/Sofia/634401
+#EXTINF:-1 tvg-id="SHOxBET.us" tvg-logo="https://247hosting.xyz/images/Icons/sho.bet.us.png" group-title="USA | MOVIES",US: SHOxBET (West)
+http://inthezone.pro:80/Sofia/Sofia/634394
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.cinema.us.png" group-title="USA | MOVIES",US: STARZ CINEMA
+http://inthezone.pro:80/Sofia/Sofia/634402
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.comedy.us.png" group-title="USA | MOVIES",US: STARZ COMEDY
+http://inthezone.pro:80/Sofia/Sofia/634403
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.edge.us.png" group-title="USA | MOVIES",US: STARZ EDGE
+http://inthezone.pro:80/Sofia/Sofia/634404
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.encore.action.us.png" group-title="USA | MOVIES",US: STARZ ENCORE ACTION
+http://inthezone.pro:80/Sofia/Sofia/634407
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.encore.black.us.png" group-title="USA | MOVIES",US: STARZ ENCORE BLACK
+http://inthezone.pro:80/Sofia/Sofia/634408
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.encore.classic.us.png" group-title="USA | MOVIES",US: STARZ ENCORE CLASSIC
+http://inthezone.pro:80/Sofia/Sofia/634409
+#EXTINF:-1 tvg-id="StarzEncoreEspanol.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.encore.espanol.us.png" group-title="USA | MOVIES",US: STARZ ENCORE ESPANOL
+http://inthezone.pro:80/Sofia/Sofia/634410
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.encore.family.us.png" group-title="USA | MOVIES",US: STARZ ENCORE FAMILY
+http://inthezone.pro:80/Sofia/Sofia/634411
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.encore.us.png" group-title="USA | MOVIES",US: STARZ Encore (EAST)
+http://inthezone.pro:80/Sofia/Sofia/634406
+#EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.encore.us.png" group-title="USA | MOVIES",US: STARZ ENCORE (WEST)
+http://inthezone.pro:80/Sofia/Sofia/634405
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.encore.suspense.us.png" group-title="USA | MOVIES",US: STARZ ENCORE SUSPENSE
+http://inthezone.pro:80/Sofia/Sofia/634412
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.encore.westerns.us.png" group-title="USA | MOVIES",US: STARZ ENCORE WESTERNS
+http://inthezone.pro:80/Sofia/Sofia/634413
+#EXTINF:-1 tvg-id="StarzKids.us" tvg-logo="https://247hosting.xyz/images/Icons/starz.kids.and.family.us.png" group-title="USA | MOVIES",US: STARZ KIDS & FAMILY
+http://inthezone.pro:80/Sofia/Sofia/634415
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-logo="https://247hosting.xyz/images/Icons/sundance.tv.us.png" group-title="USA | MOVIES",US: SUNDANCE
+http://inthezone.pro:80/Sofia/Sofia/634416
+#EXTINF:-1 tvg-id="TCM.us" tvg-logo="https://247hosting.xyz/images/Icons/tcm.us.png" group-title="USA | MOVIES",US: Turner Classic
+http://inthezone.pro:80/Sofia/Sofia/634417
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/baby-first-tv-us.png?raw=true" group-title="USA | KIDS",US: Baby First HD
+http://inthezone.pro:80/Sofia/Sofia/634275
+#EXTINF:-1 tvg-id="BabyTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/baby-tv-us.png?raw=true" group-title="USA | KIDS",US: BABY TV
+http://inthezone.pro:80/Sofia/Sofia/634274
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="USA | KIDS",US: BOOMERANG
+http://inthezone.pro:80/Sofia/Sofia/634276
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="USA | KIDS",US: CARTOON NETWORK
+http://inthezone.pro:80/Sofia/Sofia/634277
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" group-title="USA | KIDS",US: Disney Channel HD (WEST)
+http://inthezone.pro:80/Sofia/Sofia/634278
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="USA | KIDS",US: Disney Junior HD
+http://inthezone.pro:80/Sofia/Sofia/634279
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="USA | KIDS",US: Disney XD HD
+http://inthezone.pro:80/Sofia/Sofia/634280
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="USA | KIDS",US: NICK MUSIC
+http://inthezone.pro:80/Sofia/Sofia/634282
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-en-espanol-us.png?raw=true" group-title="USA | KIDS",US: Nickelodeon HD (EAST)
+http://inthezone.pro:80/Sofia/Sofia/634281
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="USA | KIDS",US: Nicktoons
+http://inthezone.pro:80/Sofia/Sofia/634283
+#EXTINF:-1 tvg-id="PBSKids.pr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dot-icon-us.png?raw=true" group-title="USA | KIDS",US: PBS KIDS EAST
+http://inthezone.pro:80/Sofia/Sofia/634284
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Action HD
+http://inthezone.pro:80/Sofia/Sofia/630956
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Action FHD
+http://inthezone.pro:80/Sofia/Sofia/630957
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-logo="http://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Animation HD
+http://inthezone.pro:80/Sofia/Sofia/630960
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Animation FHD
+http://inthezone.pro:80/Sofia/Sofia/630961
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Comedy HD
+http://inthezone.pro:80/Sofia/Sofia/630954
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Comedy FHD
+http://inthezone.pro:80/Sofia/Sofia/630955
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Crime and Thriller HD
+http://inthezone.pro:80/Sofia/Sofia/630958
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Crime and Thriller FHD
+http://inthezone.pro:80/Sofia/Sofia/630959
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Drama HD
+http://inthezone.pro:80/Sofia/Sofia/630952
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Drama FHD
+http://inthezone.pro:80/Sofia/Sofia/630953
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Family HD
+http://inthezone.pro:80/Sofia/Sofia/630950
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Family FHD
+http://inthezone.pro:80/Sofia/Sofia/630951
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Greats HD
+http://inthezone.pro:80/Sofia/Sofia/630968
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Greats FHD
+http://inthezone.pro:80/Sofia/Sofia/630969
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Hits HD
+http://inthezone.pro:80/Sofia/Sofia/630964
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Hits FHD
+http://inthezone.pro:80/Sofia/Sofia/630965
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Premiere HD
+http://inthezone.pro:80/Sofia/Sofia/630948
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Premiere FHD
+http://inthezone.pro:80/Sofia/Sofia/630949
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-horror-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Scifi Horror HD
+http://inthezone.pro:80/Sofia/Sofia/630966
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-horror-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Scifi Horror FHD
+http://inthezone.pro:80/Sofia/Sofia/630967
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Select HD
+http://inthezone.pro:80/Sofia/Sofia/630962
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-icon-uk.png?raw=true" group-title="UK | SKY CINEMA",Sky Cinema Select FHD
+http://inthezone.pro:80/Sofia/Sofia/630963
+#EXTINF:-1 tvg-id="Film4.uk" tvg-logo="https://scfcrulez.com:443/images/21058c39086f6308b16c2a0d707abe0f.png" group-title="UK | SKY CINEMA",Film 4 HD
+http://inthezone.pro:80/Sofia/Sofia/630974
+#EXTINF:-1 tvg-id="GREAT!movies.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/great-movies-uk.png?raw=true" group-title="UK | SKY CINEMA",Great! Movies
+http://inthezone.pro:80/Sofia/Sofia/630971
+#EXTINF:-1 tvg-id="GREAT!action.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/great-action-uk.png?raw=true" group-title="UK | SKY CINEMA",Great! Movies Action
+http://inthezone.pro:80/Sofia/Sofia/630972
+#EXTINF:-1 tvg-id="GreatClassic.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Great%21_Movies_Classic_Logo.svg/revision/latest/scale-to-width-down/250?cb=20220402164421" group-title="UK | SKY CINEMA",Great! Movies Classic
+http://inthezone.pro:80/Sofia/Sofia/630970
+#EXTINF:-1 tvg-id="Movies24.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/movies-24-uk.png?raw=true" group-title="UK | SKY CINEMA",Movies 24
+http://inthezone.pro:80/Sofia/Sofia/630973
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-logo="https://247hosting.xyz/images/Icons/sony.channel.uk.png" group-title="UK | SKY CINEMA",Sony Channel
+http://inthezone.pro:80/Sofia/Sofia/630975
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-logo="https://247hosting.xyz/images/Icons/sony.movie.channel.us.png" group-title="UK | SKY CINEMA",Sony Movies Channel
+http://inthezone.pro:80/Sofia/Sofia/630976
+#EXTINF:-1 tvg-id="TalkingPictures.uk" tvg-logo="https://247hosting.xyz/images/Icons/talking.pictures.tv.uk.png" group-title="UK | SKY CINEMA",Talking Pictures
+http://inthezone.pro:80/Sofia/Sofia/638983
+#EXTINF:-1 tvg-id="beINSPORTS1.au" tvg-logo="https://247hosting.xyz/images/Icons/Bein.sports.aus.jpg" group-title="AU | SPORTS",AU: BEIN SPORTS 1
+http://inthezone.pro:80/Sofia/Sofia/1416043
+#EXTINF:-1 tvg-id="beINSPORTS2.au" tvg-logo="https://247hosting.xyz/images/Icons/Bein.sports.aus.jpg" group-title="AU | SPORTS",AU: BEIN SPORTS 2
+http://inthezone.pro:80/Sofia/Sofia/1416044
+#EXTINF:-1 tvg-id="beINSPORTS3.au" tvg-logo="https://247hosting.xyz/images/Icons/Bein.sports.aus.jpg" group-title="AU | SPORTS",AU: BEIN SPORTS 3
+http://inthezone.pro:80/Sofia/Sofia/1416045
+#EXTINF:-1 tvg-id="ESPN.au" tvg-logo="https://247hosting.xyz/images/Icons/espn.aus.png" group-title="AU | SPORTS",AU: ESPN 1
+http://inthezone.pro:80/Sofia/Sofia/635201
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="https://247hosting.xyz/images/Icons/espn.aus.png" group-title="AU | SPORTS",AU: ESPN 2
+http://inthezone.pro:80/Sofia/Sofia/635202
+#EXTINF:-1 tvg-id="NSW-SydneyFOXCRICKET.au" tvg-logo="https://247hosting.xyz/images/Icons/fox.sports.us.png" group-title="AU | SPORTS",AU: Fox Sports 501
+http://inthezone.pro:80/Sofia/Sofia/635194
+#EXTINF:-1 tvg-id="NSW-SydneyFOXLEAGUE.au" tvg-logo="https://247hosting.xyz/images/Icons/fox.sports.us.png" group-title="AU | SPORTS",AU: Fox Sports 502
+http://inthezone.pro:80/Sofia/Sofia/635195
+#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS503.au" tvg-logo="https://247hosting.xyz/images/Icons/fox.sports.us.png" group-title="AU | SPORTS",AU: Fox Sports 503
+http://inthezone.pro:80/Sofia/Sofia/635196
+#EXTINF:-1 tvg-id="NSW-SydneyFoxFooty.au" tvg-logo="https://247hosting.xyz/images/Icons/fox.sports.us.png" group-title="AU | SPORTS",AU: Fox Sports 504
+http://inthezone.pro:80/Sofia/Sofia/635197
+#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS505.au" tvg-logo="https://247hosting.xyz/images/Icons/fox.sports.us.png" group-title="AU | SPORTS",AU: Fox Sports 505
+http://inthezone.pro:80/Sofia/Sofia/635198
+#EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS506.au" tvg-logo="https://247hosting.xyz/images/Icons/fox.sports.us.png" group-title="AU | SPORTS",AU: Fox Sports 506
+http://inthezone.pro:80/Sofia/Sofia/635199
+#EXTINF:-1 tvg-logo="https://247hosting.xyz/images/Icons/fox.sports.us.png" group-title="AU | SPORTS",AU: Fox Sports 507
+http://inthezone.pro:80/Sofia/Sofia/635200
+#EXTINF:-1 tvg-id="RACINGCOM.au" tvg-logo="https://247hosting.xyz/images/Icons/racing.com.au.png" group-title="AU | SPORTS",AU: Racing.com
+http://inthezone.pro:80/Sofia/Sofia/635191
+#EXTINF:-1 tvg-logo="https://247hosting.xyz/images/Icons/stan.event.au.png" group-title="AU | SPORTS",AU: Stan Sport Event 1
+http://inthezone.pro:80/Sofia/Sofia/1396353
+#EXTINF:-1 tvg-logo="https://247hosting.xyz/images/Icons/stan.event.au.png" group-title="AU | SPORTS",AU: Stan Sport Event 2
+http://inthezone.pro:80/Sofia/Sofia/1396342
+#EXTINF:-1 tvg-logo="https://247hosting.xyz/images/Icons/stan.event.au.png" group-title="AU | SPORTS",AU: Stan Sport Event 3
+http://inthezone.pro:80/Sofia/Sofia/1396340
+#EXTINF:-1 tvg-logo="https://247hosting.xyz/images/Icons/stan.event.au.png" group-title="AU | SPORTS",AU: Stan Sport Event 4
+http://inthezone.pro:80/Sofia/Sofia/1396339
+#EXTINF:-1 tvg-logo="https://247hosting.xyz/images/Icons/stan.event.au.png" group-title="AU | SPORTS",AU: Stan Sport Event 5
+http://inthezone.pro:80/Sofia/Sofia/1396338
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="USA | SPORTS",CA: ACC Network HD
+http://inthezone.pro:80/Sofia/Sofia/634418
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-int.png?raw=true" group-title="USA | SPORTS",US: BEIN US HD
+http://inthezone.pro:80/Sofia/Sofia/634419
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-us.png?raw=true" group-title="USA | SPORTS",US: CBS SPORTS NETWORK HD
+http://inthezone.pro:80/Sofia/Sofia/634420
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-golazo-network-us.png" group-title="USA | SPORTS",US: CBS SPORTS GOLAZO NETWORK FHD
+http://inthezone.pro:80/Sofia/Sofia/647449
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="USA | SPORTS",US: ESPN HD
+http://inthezone.pro:80/Sofia/Sofia/634421
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" group-title="USA | SPORTS",US: ESPN NEWS HD
+http://inthezone.pro:80/Sofia/Sofia/634424
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-deportes-us.png?raw=true" group-title="USA | SPORTS",US: ESPN-DEPORTES HD
+http://inthezone.pro:80/Sofia/Sofia/634423
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" group-title="USA | SPORTS",US: ESPN2 HD
+http://inthezone.pro:80/Sofia/Sofia/634422
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="USA | SPORTS",US: ESPNU HD
+http://inthezone.pro:80/Sofia/Sofia/634425
+#EXTINF:-1 tvg-id="FanDuelTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fanduel-tv-us.png?raw=true" group-title="USA | SPORTS",US: FanDuel TV HD
+http://inthezone.pro:80/Sofia/Sofia/634426
+#EXTINF:-1 tvg-id="FightNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fight-network-us.png?raw=true" group-title="USA | SPORTS",US: FIGHT NETWORK HD
+http://inthezone.pro:80/Sofia/Sofia/634427
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-deportes-us.png?raw=true" group-title="USA | SPORTS",US: FOX DEPORTES HD
+http://inthezone.pro:80/Sofia/Sofia/634428
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soccer-plus-us.png?raw=true" group-title="USA | SPORTS",US: Fox Soccer Plus HD
+http://inthezone.pro:80/Sofia/Sofia/634429
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="USA | SPORTS",US: FOX SPORTS 1 HD
+http://inthezone.pro:80/Sofia/Sofia/634430
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="USA | SPORTS",US: FOX SPORTS 2 HD
+http://inthezone.pro:80/Sofia/Sofia/634431
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-channel-us.png?raw=true" group-title="USA | SPORTS",US: GOLF CHANNEL HD
+http://inthezone.pro:80/Sofia/Sofia/634432
+#EXTINF:-1 tvg-id="TexasLonghorns.ncaab" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/longhorn-network-us.png?raw=true" group-title="USA | SPORTS",US: LONGHORN NETWORK HD
+http://inthezone.pro:80/Sofia/Sofia/634451
+#EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mav-tv-us.png?raw=true" group-title="USA | SPORTS",US: MAV TV HD
+http://inthezone.pro:80/Sofia/Sofia/634452
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="USA | SPORTS",US: MLB NETWORK HD
+http://inthezone.pro:80/Sofia/Sofia/634453
+#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-strike-zone-us.png?raw=true" group-title="USA | SPORTS",US: MLB Network Strike Zone HD
+http://inthezone.pro:80/Sofia/Sofia/634454
+#EXTINF:-1 tvg-id="MSGZone1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png?raw=true" group-title="USA | SPORTS",US: MSG HD
+http://inthezone.pro:80/Sofia/Sofia/634455
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="USA | SPORTS",US: NBA TV HD
+http://inthezone.pro:80/Sofia/Sofia/634456
+#EXTINF:-1 tvg-id="NESN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-us.png?raw=true" group-title="USA | SPORTS",US: NESN HD
+http://inthezone.pro:80/Sofia/Sofia/634457
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="USA | SPORTS",US: NFL NETWORK HD
+http://inthezone.pro:80/Sofia/Sofia/634458
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="USA | SPORTS",US: NHL NETWORK HD
+http://inthezone.pro:80/Sofia/Sofia/634459
+#EXTINF:-1 tvg-id="PokerGO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/poker-go-vod.png?raw=true" group-title="USA | SPORTS",US: PokerGo
+http://inthezone.pro:80/Sofia/Sofia/641068
+#EXTINF:-1 tvg-id="PursuitChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" group-title="USA | SPORTS",US: PURSUIT CHANNEL HD
+http://inthezone.pro:80/Sofia/Sofia/634467
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="USA | SPORTS",US: SEC NETWORK HD
+http://inthezone.pro:80/Sofia/Sofia/634468
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" group-title="USA | SPORTS",US: SPORTSMAN CHANNEL HD
+http://inthezone.pro:80/Sofia/Sofia/634469
+#EXTINF:-1 tvg-id="SNY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/spectrum-sportsnet-us.png?raw=true" group-title="USA | SPORTS",US: SPORTSNET NY HD
+http://inthezone.pro:80/Sofia/Sofia/634470
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-us.png?raw=true" group-title="USA | SPORTS",US: TENNIS CHANNEL HD
+http://inthezone.pro:80/Sofia/Sofia/634471
+#EXTINF:-1 tvg-id="TheCowboyChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cowboy-channel-us.png?raw=true" group-title="USA | SPORTS",US: THE COWBOY CHANNEL HD
+http://inthezone.pro:80/Sofia/Sofia/634472
+#EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="USA | SPORTS",US: Willow Cricket HD
+http://inthezone.pro:80/Sofia/Sofia/634473
+#EXTINF:-1 tvg-id="Willow.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-xtra-us.png?raw=true" group-title="USA | SPORTS",US: Willow Cricket Xtra HD
+http://inthezone.pro:80/Sofia/Sofia/634474
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" group-title="USA | SPORTS",US: WORLD FISHING NETWORK HD
+http://inthezone.pro:80/Sofia/Sofia/634475
+#EXTINF:-1 tvg-id="WWENetwork.peacocktv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true" group-title="USA | SPORTS",US: WWE Network HD
+http://inthezone.pro:80/Sofia/Sofia/634476
+#EXTINF:-1 tvg-id="NCAAF5.v" tvg-logo="https://audi2.com:2053/images/oQNiPbnyncCmUU2y_UC7TAstOrhETAh3_OYnncd8qu20LC9ZBrKMpQQHwxKVIx6lnmqCCmrOye9vnnGXhNBllg.png" group-title="USA | SPORTS",NCAAF 05: Ball State at Purdue 12pm
+http://inthezone.pro:80/Sofia/Sofia/1035711
+#EXTINF:-1 tvg-id="NCAAF4.v" tvg-logo="https://audi2.com:2053/images/oQNiPbnyncCmUU2y_UC7TAstOrhETAh3_OYnncd8qu20LC9ZBrKMpQQHwxKVIx6lnmqCCmrOye9vnnGXhNBllg.png" group-title="USA | SPORTS",NCAAF 04: Northwestern at Tulane 12pm
+http://inthezone.pro:80/Sofia/Sofia/1035712
+#EXTINF:-1 tvg-id="NCAAF3.v" tvg-logo="https://audi2.com:2053/images/oQNiPbnyncCmUU2y_UC7TAstOrhETAh3_OYnncd8qu20LC9ZBrKMpQQHwxKVIx6lnmqCCmrOye9vnnGXhNBllg.png" group-title="USA | SPORTS",NCAAF 03: Duquesne at Pitt 12pm
+http://inthezone.pro:80/Sofia/Sofia/1035713
+#EXTINF:-1 tvg-id="NCAAF2.v" tvg-logo="https://audi2.com:2053/images/oQNiPbnyncCmUU2y_UC7TAstOrhETAh3_OYnncd8qu20LC9ZBrKMpQQHwxKVIx6lnmqCCmrOye9vnnGXhNBllg.png" group-title="USA | SPORTS",NCAAF 02: VMI at Navy 12pm
+http://inthezone.pro:80/Sofia/Sofia/1035714
+#EXTINF:-1 tvg-id="NCAAF1.v" tvg-logo="https://audi2.com:2053/images/oQNiPbnyncCmUU2y_UC7TAstOrhETAh3_OYnncd8qu20LC9ZBrKMpQQHwxKVIx6lnmqCCmrOye9vnnGXhNBllg.png" group-title="USA | SPORTS",NCAAF 01: Mississippi State at Southern Miss 12pm
+http://inthezone.pro:80/Sofia/Sofia/1035715
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSmainevent.png" group-title="UK | SKY SPORTS",Sky Sports Main Event HD
+http://inthezone.pro:80/Sofia/Sofia/630979
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSmainevent1.png" group-title="UK | SKY SPORTS",Sky Sports Main Event FHD
+http://inthezone.pro:80/Sofia/Sofia/630980
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSNews.png" group-title="UK | SKY SPORTS",Sky Sports News HD
+http://inthezone.pro:80/Sofia/Sofia/630999
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSNews.png" group-title="UK | SKY SPORTS",Sky Sports News FHD
+http://inthezone.pro:80/Sofia/Sofia/631000
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSAction.png" group-title="UK | SKY SPORTS",Sky Sports Action/NFL HD
+http://inthezone.pro:80/Sofia/Sofia/630989
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSAction.png" group-title="UK | SKY SPORTS",Sky Sports Action/NFL FHD
+http://inthezone.pro:80/Sofia/Sofia/630990
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSCricket.png" group-title="UK | SKY SPORTS",Sky Sports Cricket HD
+http://inthezone.pro:80/Sofia/Sofia/630985
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSCricket.png" group-title="UK | SKY SPORTS",Sky Sports Cricket FHD
+http://inthezone.pro:80/Sofia/Sofia/630986
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSF1.png" group-title="UK | SKY SPORTS",Sky Sports F1 / Darts HD
+http://inthezone.pro:80/Sofia/Sofia/630993
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSF1.png" group-title="UK | SKY SPORTS",Sky Sports F1 / Darts FHD
+http://inthezone.pro:80/Sofia/Sofia/630994
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSFootball.png" group-title="UK | SKY SPORTS",Sky Sports Football HD
+http://inthezone.pro:80/Sofia/Sofia/630981
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSFootball.png" group-title="UK | SKY SPORTS",Sky Sports Football FHD
+http://inthezone.pro:80/Sofia/Sofia/630982
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSGolf.png" group-title="UK | SKY SPORTS",Sky Sports Golf HD
+http://inthezone.pro:80/Sofia/Sofia/630983
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSGolf.png" group-title="UK | SKY SPORTS",Sky Sports Golf FHD
+http://inthezone.pro:80/Sofia/Sofia/630984
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSMix.png" group-title="UK | SKY SPORTS",Sky Sports Mix HD
+http://inthezone.pro:80/Sofia/Sofia/630995
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSMix.png" group-title="UK | SKY SPORTS",Sky Sports Mix FHD
+http://inthezone.pro:80/Sofia/Sofia/630996
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSPL.png" group-title="UK | SKY SPORTS",Sky Sports Premier League HD
+http://inthezone.pro:80/Sofia/Sofia/630977
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSPL.png" group-title="UK | SKY SPORTS",Sky Sports Premier League FHD
+http://inthezone.pro:80/Sofia/Sofia/630978
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSRacing.png" group-title="UK | SKY SPORTS",Sky Sports Racing HD
+http://inthezone.pro:80/Sofia/Sofia/630997
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSRacing.png" group-title="UK | SKY SPORTS",Sky Sports Racing FHD
+http://inthezone.pro:80/Sofia/Sofia/630998
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSTen.png" group-title="UK | SKY SPORTS",Sky Sports Tennis HD
+http://inthezone.pro:80/Sofia/Sofia/630987
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSTen.png" group-title="UK | SKY SPORTS",Sky Sports Tennis FHD
+http://inthezone.pro:80/Sofia/Sofia/630988
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSPlus.png" group-title="UK | SKY SPORTS",Sky Sports+ HD
+http://inthezone.pro:80/Sofia/Sofia/646726
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-logo="https://247hosting.xyz/images/Icons/SSPlus.png" group-title="UK | SKY SPORTS",Sky Sports+ FHD
+http://inthezone.pro:80/Sofia/Sofia/646727
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 1 HD
+http://inthezone.pro:80/Sofia/Sofia/631184
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 1 FHD
+http://inthezone.pro:80/Sofia/Sofia/631185
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 2 HD
+http://inthezone.pro:80/Sofia/Sofia/631186
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 2 FHD
+http://inthezone.pro:80/Sofia/Sofia/631187
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 3 HD
+http://inthezone.pro:80/Sofia/Sofia/631188
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 3 FHD
+http://inthezone.pro:80/Sofia/Sofia/631189
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 4 HD
+http://inthezone.pro:80/Sofia/Sofia/631190
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 4 FHD
+http://inthezone.pro:80/Sofia/Sofia/631191
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 5 FHD
+http://inthezone.pro:80/Sofia/Sofia/640881
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-6-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 6 HD (Not 24/7)
+http://inthezone.pro:80/Sofia/Sofia/640880
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-7-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 7 HD (Not 24/7)
+http://inthezone.pro:80/Sofia/Sofia/640879
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-8-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 8 HD (Not 24/7)
+http://inthezone.pro:80/Sofia/Sofia/640878
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-9-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 9 HD (Not 24/7)
+http://inthezone.pro:80/Sofia/Sofia/640877
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-10-uk.png?raw=true" group-title="UK | TNT SPORTS",TNT Sports 10 HD (Not 24/7)
+http://inthezone.pro:80/Sofia/Sofia/640876
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/tnt-sports-lam.png?raw=true" group-title="UK | TNT SPORTS",TNT SPORTS | EVENT 1
+http://inthezone.pro:80/Sofia/Sofia/645053
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/tnt-sports-lam.png?raw=true" group-title="UK | TNT SPORTS",TNT SPORTS | EVENT 2
+http://inthezone.pro:80/Sofia/Sofia/645054
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/tnt-sports-lam.png?raw=true" group-title="UK | TNT SPORTS",TNT SPORTS | EVENT 3
+http://inthezone.pro:80/Sofia/Sofia/645055

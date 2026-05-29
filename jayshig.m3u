@@ -76,5 +76,15 @@ http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="ShigenoTV CHANNELS",MN+
 http://desyra.co:80/8964476/3pUJreUXUW/9383
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="ShigenoTV CHANNELS",MNX
 http://desyra.co:80/live/8964476/3pUJreUXUW/191.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="ShigenoTV CHANNELS",3RS Moviebox
+https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="ShigenoTV CHANNELS",3RS Sinepinoy
+https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="ShigenoTV CHANNELS",3RSTV
+https://3rstv.elektriko4444.workers.dev/peanut.m3u8

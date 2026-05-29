@@ -45,6 +45,9 @@ http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi" group-title="ShigenoTV CHANNELS",THRILL
+http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" group-title="ShigenoTV CHANNELS",Tap Action Flix
 http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 

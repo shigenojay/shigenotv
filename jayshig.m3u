@@ -8,6 +8,12 @@ M3U billed-msg="M3U PLAYLIST BY: SHIGENOTV"
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
 
+#EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="", GMA I Heart Movies
+https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+
+#EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" tvg-logo-small="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="", GMA Heart of Asia
+https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="ShigenoTV CHANNELS",PTV4
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
